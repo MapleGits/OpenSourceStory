@@ -1,0 +1,6 @@
+Dragon Strength gives dex instead of str - should be fixed
+Maple Warrior not giving correct stats
+Hex of the Beholden gives wrong stats
+Beholden is stucking me i think
+Berskerk activating at wrong times
+hyper buffs not working

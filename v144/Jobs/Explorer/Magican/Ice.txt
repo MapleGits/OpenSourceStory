@@ -1,0 +1,17 @@
+cold beam does not freeze
+meditation no buff icon
+ice strike does not freeze
+thunder spear does not stun
+ice demon no dmg over time or freeze
+glacier chain does no dmg
+chain lightning no dmg
+buff mastery spawns 2 black orbs around u and not correct effect
+hyper attack no dmg
+hyper buff no work
+teleport mastery no dmg to mob
+
+
+erorr 38 give buff when using reg attack??
+GIVE_BUFF Opcode: 40
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 42 A1 07 00 08 00 00 00 00 00 00 00 00 75 2B 7D 00 00 00 00 01 01 00
+ MapID: 100010000

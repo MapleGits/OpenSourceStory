@@ -1,0 +1,7 @@
+Threaten error 38 - apply monster status
+PG no dmg to mobs
+when chaning from one charge to another error 38 cuz no debuff the prev
+flame charge should add fire but stuns instead
+combat orders should +1 - 2 all skills but does nothing + keeps casting showing effect - should be fixed
+heavens hammer gets mob hp down to 1 and stuns but doesnt kill
+hyper buff no work

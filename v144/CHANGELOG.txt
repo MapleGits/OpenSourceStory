@@ -1,0 +1,44 @@
+Developer : Zenn
+Continued from: Rakeda
+
+Title : CHANGELOG
+
+1/5/2013-Rakeda :
+*Changed login to auto log as Admin (localhost frinedly only)
+*Got in game
+
+
+31/12/2013 :
+* Imported LickerishDEV 144.2 Source
+* Fixed Up tons Of errors
+* Added send/Recv Opcode
+* Added missing Properties Files -> worldGMS/Channel
+* fixed Up SQL/Dumping Of Wz To SQL
+* SQL Now Handled UTF_8 Due Korean Strings in WZ
+* Updates ServerConstants To v144.3
+* Fixed Up Correct helloPacket 
+* Added Packet Log Of Send/Recv For Debugging Purpose
+* Fixed Up mapleClient.login Method
+* Fixed Up Wrong Maple AES pKey For 144
+* minor MapleServerHandler Clean Up.
+* Fixed double World being display at serverList due to it being sent twice at Login Worker
+* Fixed serverMessage to use Properties and Removal of the vulgar message being display (n00b)
+* Able to debug Project from Eclipse directly..
+
+
+1/1/2014 :
+* Fixed up the broken spawn in certain Maps.
+* Fixed Error 38 cause by Wrong Header QUEST_STATUS_INFO
+* Fixed Class not found Info due to Incorrect wzPath
+* Fixed Error 38 cause by Wrong Header SHOW_MAGNIFYING_EFFECT 
+* Remove Customization stuff that is not needed
+
+2/1/2014 :
+* Fixed Up CHAR_INFO Error 38 Due To Wrong Packet
+* Fixed Up BOSS_HP Error 38
+
+3/1/2014 :
+
+* Fixed CS_OPEN Error 38
+* Fixed CS_OPERATION Error 38
+* Remove CS_USE1 Not Needed..

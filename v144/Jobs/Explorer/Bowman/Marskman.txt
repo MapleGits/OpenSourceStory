@@ -1,0 +1,5 @@
+Concentrate gives weapon def instead of att
+pircing arrow no dmg
+illusion step no stat effect
+maple warrior no stat effect
+hyper buff no work

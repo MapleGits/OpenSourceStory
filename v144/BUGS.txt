@@ -1,0 +1,15 @@
+* Create Char Equip Being Assigned To Wrong Position
+-> Overall In SHOES
+-> SHOES In WEAPON
+* Random Error 38 ! (Packets)
+* Able To Scroll But Nothing Is Transfered :\ No Attack -> Slots Dont Minus Too.
+* Monster Effect Isnt Working (No Effect)
+* Logging Upon GM/SuperGM Or Entering Cashshop -> Error 38 ?? Check ?!
+* View CHAR_INFO With Pet -> Error 38
+
+
+// Packet Issue Error 38
+
+Sending :
+
+None

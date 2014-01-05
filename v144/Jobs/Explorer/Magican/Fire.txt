@@ -1,0 +1,7 @@
+posion breath does not apply posion over time
+meditation no buff icon
+posion mist job applys dmg to yourself and not properly to mobs
+fire demon no dmg over time
+teleport mastery doesnt dmg mobs
+hyper attack is 2 icons and no work
+hyper buff no work

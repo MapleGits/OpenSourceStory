@@ -1,0 +1,40 @@
+When changing job from 132 to 131 while maxing skills-
+
+
+
+
+
+Received Data :
+4A 00 02 00 00 00 00 00 77 00 05 03 76 03 28 00 00 20 00 00 00 00 00 00 00 83 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+J.......w...v.(.. .......?......................................................
+.................................................
+java.io.IOException: An existing connection was forcibly closed by the remote ho
+st
+        at sun.nio.ch.SocketDispatcher.read0(Native Method)
+        at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+        at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+        at sun.nio.ch.IOUtil.read(Unknown Source)
+        at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+        at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.j
+ava:273)
+        at org.apache.mina.transport.socket.nio.NioProcessor.read(NioProcessor.j
+ava:44)
+        at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(Abstract
+PollingIoProcessor.java:690)
+        at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(Abstr
+actPollingIoProcessor.java:664)
+        at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(Abstr
+actPollingIoProcessor.java:653)
+        at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$600(Ab
+stractPollingIoProcessor.java:67)
+        at org.apache.mina.core.polling.AbstractPollingIoProcessor$Processor.run
+(AbstractPollingIoProcessor.java:1124)
+        at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnabl
+e.java:64)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)

@@ -1,0 +1,3 @@
+Power Reflection no dmg to mobs
+Panic sometimes does not use orbs and curses mobs instead of blinding?
+hyper buff no work exept buff 2 but no buff icon

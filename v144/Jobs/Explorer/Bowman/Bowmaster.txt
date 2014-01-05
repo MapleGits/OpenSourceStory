@@ -1,0 +1,5 @@
+roasting shot burn over time no dmg
+Concentrate gives weapon def instead of att - fixed
+MapleWarrrior not correct stats given - fixed
+illusion step not correct stats - fixed
+hyper buff no work
